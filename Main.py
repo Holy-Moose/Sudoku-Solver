@@ -1,3 +1,6 @@
+# Sudoku solver using Pgame and backtracking
+
+
 import pygame
 from sudokusolver import Solve, valid
 
